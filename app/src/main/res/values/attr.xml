@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="context_text" format="string"/>
+    <attr name="text_font" format="dimension"/>
+    <attr name="text_color" format="color"/>
+
+    <declare-styleable name="ProgressCircleView">
+        <attr name="context_text"/>
+        <attr name="text_font"/>
+        <attr name="text_color"/>
+    </declare-styleable>
+</resources>
