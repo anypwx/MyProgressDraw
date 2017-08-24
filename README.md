@@ -1,3 +1,7 @@
+# 效果图
+![""](https://github.com/anypwx/MyProgressDraw/blob/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9C%86%E5%BD%A2%E8%BF%9B%E5%BA%A6.gif)
+
+
 # MyProgressDraw
 简单的自定义进度圈demo，用于学习者掌握自定义技巧及一些api的使用
 主要代码在ProgressCircleView2类上
