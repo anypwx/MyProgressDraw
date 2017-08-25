@@ -4,8 +4,11 @@
 
 # MyProgressDraw
 简单的自定义进度圈demo，用于学习者掌握自定义技巧及一些api的使用
-主要代码在ProgressCircleView2类上
-'''
+主要代码在ProgressCircleView2类上。
+
+
+
+```
 public class ProgressCircleView2 extends View {
     private String mText;
     private int mTextColor;
@@ -221,4 +224,4 @@ public class ProgressCircleView2 extends View {
         valueAnimator.start();
     }
 }
-'''
+```
